@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**DmitriiNasonov/DmitriiNasonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Image
+#Hello there
+##I'm a QA Engineer
+####My CV
+link to CV
+####Language and Tools
+images
+####Testing Documentation
+links
+####Follow me
