@@ -1,7 +1,7 @@
 ## All bug-reports in tasks
 
-| #   | Title |Count of the bug-reports in task
-| --- | ---   |---
+| #   | Title 
+| --- | ---   
 | 1   |  ["Харків" travel - Preview of the travel - Tag "Цікаво" is missing](https://github.com/scholokov/long-travel-2/issues/4742)
 | 2   |  ["Харків" travel - Travel preview - Date format is DD - DD.MM.YYYY](https://github.com/scholokov/long-travel-2/issues/4743)
 | 3   |  ["Харків" travel - Preview of standard block "Дорога: Харків – Київ" (where date is 18.09.2020) is missing](https://github.com/scholokov/long-travel-2/issues/4745)
