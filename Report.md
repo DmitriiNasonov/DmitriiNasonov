@@ -1,4 +1,4 @@
-## All bug-reports in tasks
+## All bug-reports
 
 | #   | Title 
 | --- | ---   
